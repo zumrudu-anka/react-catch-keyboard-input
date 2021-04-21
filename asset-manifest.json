@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-catch-keyboard-input/static/css/main.e088cc4c.chunk.css",
+    "main.js": "/react-catch-keyboard-input/static/js/main.bdcea0c7.chunk.js",
+    "main.js.map": "/react-catch-keyboard-input/static/js/main.bdcea0c7.chunk.js.map",
+    "runtime-main.js": "/react-catch-keyboard-input/static/js/runtime-main.54290daf.js",
+    "runtime-main.js.map": "/react-catch-keyboard-input/static/js/runtime-main.54290daf.js.map",
+    "static/js/2.2d78bba8.chunk.js": "/react-catch-keyboard-input/static/js/2.2d78bba8.chunk.js",
+    "static/js/2.2d78bba8.chunk.js.map": "/react-catch-keyboard-input/static/js/2.2d78bba8.chunk.js.map",
+    "index.html": "/react-catch-keyboard-input/index.html",
+    "static/css/main.e088cc4c.chunk.css.map": "/react-catch-keyboard-input/static/css/main.e088cc4c.chunk.css.map",
+    "static/js/2.2d78bba8.chunk.js.LICENSE.txt": "/react-catch-keyboard-input/static/js/2.2d78bba8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54290daf.js",
+    "static/js/2.2d78bba8.chunk.js",
+    "static/css/main.e088cc4c.chunk.css",
+    "static/js/main.bdcea0c7.chunk.js"
+  ]
+}
